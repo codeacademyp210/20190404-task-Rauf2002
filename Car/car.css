@@ -1,0 +1,13 @@
+button {
+    background-color: transparent;
+    border: none;
+    outline: none
+}
+i {
+    color: brown;
+    font-size: 25px;
+}
+li {
+    display: flex !important;
+    justify-content: space-between !important;
+}
